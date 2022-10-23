@@ -20,7 +20,7 @@
 lang:                  es
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Starter Kit
+title:                 Wh04m1
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -29,10 +29,11 @@ description:           >
   with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline:               >
+  Consultor Ciberseguridad -- Privacidad -- Protección de datos
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [Ciberseguridad, Cybersecurity, Privacidad, Privacy, Protection, Hacker]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
