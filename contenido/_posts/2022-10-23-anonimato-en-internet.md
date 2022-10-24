@@ -18,10 +18,10 @@ Para comenzar
 [Virtual Private Network](2022-10-23-virtual-private-network.md){:.heading.flip-title}
 
 
-## Proxy
+<!-- ## Proxy
 
-[Proxy](2022-10-23-proxy.md){:.heading.flip-title}
+[Proxy](2022-10-23-proxy.md){:.heading.flip-title} -->
 
 
-## Red TOR
+<!-- ## Red TOR -->
 
