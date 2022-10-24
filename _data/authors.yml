@@ -17,8 +17,8 @@ author1:
     path:            /assets/logo.png # https://via.placeholder.com/128x128
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            https://via.placeholder.com/128x128
-      2x:            https://via.placeholder.com/256x256
+      1x:            /assets/logo.png
+      2x:            /assets/logo.png
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
