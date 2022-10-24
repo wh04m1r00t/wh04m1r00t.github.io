@@ -10,7 +10,7 @@ slug: Contenido
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  Aqui podrás encontrar todos los articulos subidos!
+  Aqui podrás encontrar todos mis articulos!
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true

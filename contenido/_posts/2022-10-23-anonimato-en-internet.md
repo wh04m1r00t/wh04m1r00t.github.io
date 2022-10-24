@@ -2,7 +2,7 @@
 layout: post
 title: Anonimato en internet
 image: 
-  path: \assets\Blog2\Anonimato.jpg
+  path: \assets\img\anonimato-en-internet\Anonimato.jpg
 description: >
   Entendiendo como conservar la privacidad y el anonimato en internet.
 sitemap: false

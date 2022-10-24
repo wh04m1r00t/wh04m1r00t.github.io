@@ -2,7 +2,7 @@
 layout: post
 title: Virtual Private Network
 image: 
-  path: \assets\Blog2\Anonimato.jpg
+  path: \assets\img\vpn\vpn.jpg
 description: >
   Redes privadas virtuales, su funcionamiento y utilidades.
 sitemap: false
