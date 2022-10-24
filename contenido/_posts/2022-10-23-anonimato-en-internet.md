@@ -11,13 +11,23 @@ sitemap: false
 Al navegar por internet, uno de los fundamentos de seguridad es garantizar la privacidad y el anonimato 
 {:.lead}
 
+
+
+When making changes to `_config.yml`, it is necessary to restart the Jekyll process for changes to take effect.
+{:.note}
+
+0. this unordered seed list will be replaced by toc as unordered list
+{:toc}
+
 Para comenzar explicaremos de forma general algunos conceptos basicos sobre redes e internet.
 
 ## Peer to Peer (P2P)
 
 Es un tipo de red de comunicacion que permite compartir informacion de forma descentralizada entre individuos, de esta forma los clientes quedan conectados directamente entre si. Peer to peer permite a cada cliente funcionar como usuario y como servidor.
 
-![P2P.png](https://wh04m1r00t.github.io/assets/img/anonimato-en-internet/P2P.png "Imagen de ejemplo grande")
+<!-- ![image](https://wh04m1r00t.github.io/assets/img/anonimato-en-internet/P2P.png "Imagen de ejemplo grande")  -->
+
+<img src="https://wh04m1r00t.github.io/assets/img/anonimato-en-internet/P2P.png" alt="drawing" width="300"/>
 
 
 
