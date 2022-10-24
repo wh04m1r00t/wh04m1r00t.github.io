@@ -4,7 +4,7 @@ title: Anonimato en internet
 image: 
   path: \assets\Blog2\Anonimato.jpg
 description: >
-  Herramientas para conservar la privacidad y el anonimato en internet.
+  Entendiendo como conservar la privacidad y el anonimato en internet.
 sitemap: false
 ---
 
@@ -21,8 +21,6 @@ Para comenzar
 ## Proxy
 
 [Proxy](2022-10-23-proxy.md){:.heading.flip-title}
-
-
 
 
 ## Red TOR
