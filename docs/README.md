@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: Documentation
 description: >
@@ -46,4 +46,4 @@ While this manual tries to be beginner-friendly, as a user of Jekyll it is assum
 [advanced]: advanced.md
 [LICENSE]: ../LICENSE.md
 [NOTICE]: ../NOTICE.md
-[CHANGELOG]: ../CHANGELOG.md
+[CHANGELOG]: ../CHANGELOG.md -->
