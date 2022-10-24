@@ -52,8 +52,8 @@ author:
 menu:
   - title:             Contenido
     url:               /example/
-  - title:             Documentación
-    url:               /docs/
+  # - title:             Documentación
+  #   url:               /docs/
   - title:             Sobre mi
     url:               /about/
 
