@@ -51,7 +51,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Contenido
-    url:               /example/
+    url:               /contenido/
   # - title:             Documentación
   #   url:               /docs/
   - title:             Sobre mi
