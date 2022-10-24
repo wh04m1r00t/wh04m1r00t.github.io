@@ -11,10 +11,8 @@ sitemap: false
 Al navegar por internet, uno de los fundamentos de seguridad es garantizar la privacidad y el anonimato 
 {:.lead}
 
-
-
-When making changes to `_config.yml`, it is necessary to restart the Jekyll process for changes to take effect.
-{:.note}
+<!-- When making changes to `_config.yml`, it is necessary to restart the Jekyll process for changes to take effect.
+{:.note} -->
 
 0. this unordered seed list will be replaced by toc as unordered list
 {:toc}
