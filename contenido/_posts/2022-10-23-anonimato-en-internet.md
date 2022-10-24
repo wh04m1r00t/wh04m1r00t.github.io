@@ -8,7 +8,7 @@ description: >
 sitemap: false
 ---
 
-Al navegar por internet, es fundamental garantizar la privacidad y el anonimato en internet 
+Al navegar por internet, uno de los fundamentos de seguridad es garantizar la privacidad y el anonimato 
 {:.lead}
 
 ## VPN
