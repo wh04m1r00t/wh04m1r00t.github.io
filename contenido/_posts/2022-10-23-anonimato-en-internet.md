@@ -11,11 +11,13 @@ sitemap: false
 Al navegar por internet, uno de los fundamentos de seguridad es garantizar la privacidad y el anonimato 
 {:.lead}
 
-Para comenzar 
+Para comenzar explicaremos de forma general algunos conceptos basicos sobre redes e internet.
+
+## P2P
 
 ## Virtual Private Network (VPN)
 
-[Virtual Private Network](2022-10-23-virtual-private-network.md){:.heading.flip-title}
+Una [Virtual Private Network](2022-10-23-virtual-private-network.md){:.heading.flip-title} 
 
 
 <!-- ## Proxy
