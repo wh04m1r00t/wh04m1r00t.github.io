@@ -8,8 +8,11 @@ description: >
 sitemap: false
 ---
 
-##VPN
+Al navegar por internet, es fundamental garantizar la privacidad y el anonimato en internet 
+{:.lead}
 
-##TOR
+## VPN
+
+## TOR
 
 
