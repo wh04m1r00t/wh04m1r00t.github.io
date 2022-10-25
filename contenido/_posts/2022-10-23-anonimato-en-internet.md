@@ -23,11 +23,12 @@ Para comenzar explicaremos de forma general algunos conceptos basicos sobre rede
 
 Es un tipo de red de comunicacion que permite compartir informacion de forma descentralizada entre individuos, de esta forma los clientes quedan conectados directamente entre si. Peer to peer permite a cada cliente funcionar como usuario y como servidor.
 
-![image](https://wh04m1r00t.github.io/assets/img/anonimato-en-internet/P2P.png "Imagen de ejemplo grande") 
+![image](https://wh04m1r00t.github.io/assets/img/anonimato-en-internet/P2P.png "Estructura P2P") 
 
-![image](https://wh04m1r00t.github.io/assets/img/anonimato-en-internet/CLI-SV.png "Imagen de ejemplo grande") 
+A diferencia de una estructura Cliente-Servidor
 
-<!-- <img src="https://wh04m1r00t.github.io/assets/img/anonimato-en-internet/P2P.png" alt="drawing" width="300"/> -->
+![image](https://wh04m1r00t.github.io/assets/img/anonimato-en-internet/CLI-SV.png "Estructura Cliente-Servidor") 
+
 
 
 
