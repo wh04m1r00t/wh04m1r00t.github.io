@@ -38,7 +38,7 @@ Si bien puede ser complejo imaginar la posibilidad de anonimato usando red P2P, 
 
 Una [Virtual Private Network](2022-10-23-virtual-private-network.md){:.heading.flip-title} es una red que se utiliza como intermediario entre el usuario y el internet.
 
-Al conectarnos a una VPN tendremos un túnel cifrado y directo con las solicitudes que realicemos en internet, entregando una capa extra de protección a los usuarios
+Al conectarnos a una VPN tendremos un túnel cifrado y directo con las peticiones que realicemos en internet que verán la dirección IP del servidor VPN, entregando una capa extra de protección a los usuarios.
 
 ![image](https://wh04m1r00t.github.io/assets/img/vpn/VPN.png "VirtualPrivateNetwork") 
 
