@@ -19,7 +19,7 @@ Al navegar por internet, uno de los fundamentos de seguridad es garantizar la pr
 
 Para comenzar explicaremos de forma general algunos conceptos basicos sobre redes e internet.
 
-## Peer to Peer (P2P)
+# Peer to Peer (P2P)
 
 Es un tipo de red de comunicacion que permite compartir informacion de forma descentralizada entre individuos, lo que significa que no necesitamos un servidor central, de esta forma los clientes quedan conectados directamente entre si. Peer to peer permite a cada cliente funcionar como usuario y como servidor.
 
@@ -27,7 +27,7 @@ Es un tipo de red de comunicacion que permite compartir informacion de forma des
 
 El cliente necesitara conectarse a esta red mediante algún software que conectara el computador con el resto de clientes de la red.
 
-Algunos ejemplos de estos tipos de red son BitTorrent, Skype, Bitcoin, incluso spotify en sus comienzos lo utilizaban dado la poca inversion que se necesita considerando que no se necesita la compra de un servidor.
+Algunos ejemplos de estos tipos de red son BitTorrent, Skype, Bitcoin, incluso Spotify en sus inicios utilizaban este tipo de red por la poca inversion que se necesitaba considerando que no se realiza la compra de un servidor.
 
 Sin embargo no es un sistema muy seguro porque cada cliente debe encargarse de evitar la entrada de malware en la red.
 
@@ -41,7 +41,7 @@ Sin embargo no es un sistema muy seguro porque cada cliente debe encargarse de e
 
 
 
-## Virtual Private Network (VPN)
+# Virtual Private Network (VPN)
 
 Una [Virtual Private Network](2022-10-23-virtual-private-network.md){:.heading.flip-title} 
 
