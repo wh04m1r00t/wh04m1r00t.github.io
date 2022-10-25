@@ -29,9 +29,9 @@ Para conectarse a esta red se utilizara algún software que realice el enlace en
 
 Algunos ejemplos de estos tipos de red son BitTorrent, Skype, Bitcoin, incluso Spotify en sus inicios utilizaban este tipo de red por la poca inversion que se necesitaba considerando que no se realiza la compra de un servidor.
 
-Si bien puede ser complejo imaginar la posibilidad de anonimato usando red P2P, es cierto que para cada nodo de la red que tiene una "dirección" se pueden utilizar pseudónimos para estas conexiones. Por lo que la idea de anonimato en P2P reside en que no se tiene certeza de quien en especifico requiere la información. Puede ser un nodo entre la comunicación con algún otro usuario o si es para si mismo, siempre considerando que el usuario funciona como emisor y receptor de datos.
+Si bien puede ser complejo imaginar la posibilidad de anonimato usando red P2P, es cierto que para cada nodo de la red que tiene una "dirección" se pueden utilizar pseudónimos para estas conexiones. Por lo que la idea de anonimato en P2P reside en que no se tiene certeza de quien en especifico requiere la información. Puede ser un nodo entre la comunicación con algún otro usuario o para si mismo, siempre considerando que el usuario funciona como emisor y receptor de datos.
 
-**NOTE**: Es importante considerar que cada usuario deberá evitar la entrada de malware que podría contaminar la red.
+**NOTE**: Es importante mencionar que cada usuario deberá voluntariamente evitar la entrada de malware a la red P2P, lo que podría provocar una gran cantidad de archivos infectados.
 {:.message}
 
 # Virtual Private Network (VPN)
@@ -40,8 +40,10 @@ Una [Virtual Private Network](2022-10-23-virtual-private-network.md){:.heading.f
 
 Al conectarnos a una VPN tendremos un túnel cifrado y directo con las peticiones que realicemos en internet que verán la dirección IP del servidor VPN, entregando una capa extra de protección a los usuarios.
 
-![image](https://wh04m1r00t.github.io/assets/img/vpn/VPN.png "VirtualPrivateNetwork") 
+![image](https://wh04m1r00t.github.io/assets/img/vpn/VPN.png "VirtualPrivateNetwork") Arquitectura general de VPN
+{:.figure}
 
+De forma general, podemos 
 
 <!-- ## Proxy
 
