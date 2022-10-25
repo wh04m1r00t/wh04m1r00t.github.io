@@ -21,9 +21,15 @@ Para comenzar explicaremos de forma general algunos conceptos basicos sobre rede
 
 ## Peer to Peer (P2P)
 
-Es un tipo de red de comunicacion que permite compartir informacion de forma descentralizada entre individuos, de esta forma los clientes quedan conectados directamente entre si. Peer to peer permite a cada cliente funcionar como usuario y como servidor.
+Es un tipo de red de comunicacion que permite compartir informacion de forma descentralizada entre individuos, lo que significa que no necesitamos un servidor central, de esta forma los clientes quedan conectados directamente entre si. Peer to peer permite a cada cliente funcionar como usuario y como servidor.
 
 ![image](https://wh04m1r00t.github.io/assets/img/anonimato-en-internet/P2P.png "Estructura P2P") 
+
+El cliente necesitara conectarse a esta red mediante algún software que conectara el computador con el resto de clientes de la red.
+
+Algunos ejemplos son Torrent, Skype, Bitcoin, Spotify utilizaba al principio
+
+Sin embargo no es un sistema muy seguro porque cada cliente debe encargarse de evitar la entrada de malware en la red.
 
 A diferencia de una estructura Cliente-Servidor
 
