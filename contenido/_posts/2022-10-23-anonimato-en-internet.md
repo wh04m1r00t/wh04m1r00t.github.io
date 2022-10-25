@@ -23,15 +23,15 @@ Para comenzar explicaremos de forma general algunos conceptos basicos sobre rede
 
 Es un tipo de red de comunicacion que permite compartir informacion de forma descentralizada entre individuos, lo que significa que no necesitamos un servidor central, de esta forma los clientes quedan conectados directamente entre si. Peer to peer permite a cada cliente funcionar como usuario y como servidor.
 
-![image](https://wh04m1r00t.github.io/assets\img\anonimato-en-internet\Ambos.png"Estructuras") 
+![image](https://wh04m1r00t.github.io/assets\img\anonimato-en-internet\ambos.png "Estructuras") 
 
 El cliente necesitara conectarse a esta red mediante algún software que conectara el computador con el resto de clientes de la red.
 
-Algunos ejemplos son Torrent, Skype, Bitcoin, Spotify utilizaba al principio
+Algunos ejemplos de estos tipos de red son BitTorrent, Skype, Bitcoin, incluso spotify en sus comienzos lo utilizaban dado la poca inversion que se necesita considerando que no se necesita la compra de un servidor.
 
 Sin embargo no es un sistema muy seguro porque cada cliente debe encargarse de evitar la entrada de malware en la red.
 
-A diferencia de una estructura Cliente-Servidor
+
 
 
 
