@@ -53,7 +53,7 @@ Si quieres conocer a detalle como funciona una VPN reciba el siguiente post:
 **NOTE**: Con respecto a las VPN gratuitas estas pueden generar un gran riesgo dado que los proveedores de estos servicios requieren de una gran inversion, por lo que deberán generar ganancias de alguna otra forma. En general pueden vender tu información, lo que provocara que tu conexión debe de ser anónima.
 {:.message}
 
-## Proxy
+# Proxy
 
 [Proxy](2022-10-23-proxy.md){:.heading.flip-title}
 
