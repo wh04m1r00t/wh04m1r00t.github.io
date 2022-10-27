@@ -21,7 +21,7 @@ Para comenzar explicaremos de forma general algunos conceptos básicos sobre red
 
 # Peer to Peer (P2P)
 
-Es un tipo de red de comunicación que permite compartir información de forma descentralizada entre individuos, lo que significa que no necesitamos un servidor central, de esta forma los clientes quedan conectados directamente entre si. Peer to peer permite a cada cliente funcionar como usuario y como servidor.
+Es un tipo de red de comunicación que permite compartir información de forma descentralizada entre individuos, lo que significa que no necesitamos un servidor central, de esta forma los clientes quedan conectados directamente entre si por los diferentes nodos. Peer to peer permite a cada cliente funcionar como usuario y como servidor.
 
 ![image](https://wh04m1r00t.github.io/assets/img/anonimato-en-internet/Ambos.png "Estructuras") 
 
@@ -31,23 +31,35 @@ Algunos ejemplos de estos tipos de red son BitTorrent, Skype, Bitcoin, incluso S
 
 Si bien puede ser complejo imaginar la posibilidad de anonimato usando red P2P, es cierto que para cada nodo de la red que tiene una "dirección" se pueden utilizar pseudónimos para estas conexiones. Por lo que la idea de anonimato en P2P reside en que no se tiene certeza de quien en especifico requiere la información. Puede ser un nodo entre la comunicación con algún otro usuario o para si mismo, siempre considerando que el usuario funciona como emisor y receptor de datos.
 
-**NOTE**: Es importante mencionar que cada usuario deberá voluntariamente evitar la entrada de malware a la red P2P, lo que podría provocar una gran cantidad de archivos infectados.
+**NOTE**: Es importante mencionar que cada usuario deberá voluntariamente evitar la entrada de malware a la red P2P, en consecuencia podría provocar la existencia de archivos infectados.
 {:.message}
 
 # Virtual Private Network (VPN)
 
 Una [Virtual Private Network](2022-10-23-virtual-private-network.md){:.heading.flip-title} es una red que se utiliza como intermediario entre el usuario y el internet.
 
-Al conectarnos a una VPN tendremos un túnel cifrado y directo con las peticiones que realicemos en internet que verán la dirección IP del servidor VPN, entregando una capa extra de protección a los usuarios.
+Al conectarnos a una VPN tendremos un túnel cifrado y directo con las peticiones que realicemos en internet las cuales serán a traves de la dirección IP del servidor VPN, entregando una capa extra de protección a los usuarios.
 
 ![image](https://wh04m1r00t.github.io/assets/img/vpn/VPN.png "VirtualPrivateNetwork") Arquitectura general de VPN
 {:.figure}
 
-De forma general, podemos 
+De manera general se debe entender que al tener una VPN que cifre nuestro trafico tanto la compañía de internet que tengamos, como las redes wifi no podrán ver lo que estamos haciendo en internet. Pero si tendrá esta información la empresa que gestione la VPN.
 
-<!-- ## Proxy
+Entre otras utilidades que tiene usar una conexión VPN es que enruta todos los servicios que tenga el usuario hacia internet, a diferencia de los [proxy](2022-10-23-proxy.md){:.heading.flip-title} que son utilizados unicamente en navegadores web. Incluyendo la evasion del geobloqueo para evitar la censura y poder acceder a contenido bloqueado o limitado en la region que nos encontremos.
 
-[Proxy](2022-10-23-proxy.md){:.heading.flip-title} -->
+Si quieres conocer a detalle como funciona una VPN reciba el siguiente post:
+[Virtual Private Network](2022-10-23-virtual-private-network.md)
+
+**NOTE**: Con respecto a las VPN gratuitas estas pueden generar un gran riesgo dado que los proveedores de estos servicios requieren de una gran inversion, por lo que deberán generar ganancias de alguna otra forma. En general pueden vender tu información, lo que provocara que tu conexión debe de ser anónima.
+{:.message}
+
+## Proxy
+
+[Proxy](2022-10-23-proxy.md){:.heading.flip-title}
+
+
+![image](https://wh04m1r00t.github.io/assets/img/proxy/Proxy.png "Proxy") Arquitectura general de Proxy
+{:.figure}
 
 
 <!-- ## Red TOR -->
