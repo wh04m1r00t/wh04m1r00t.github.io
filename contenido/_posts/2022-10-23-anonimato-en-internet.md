@@ -55,11 +55,23 @@ Si quieres conocer a detalle como funciona una VPN reciba el siguiente post:
 
 # Proxy
 
-[Proxy](2022-10-23-proxy.md){:.heading.flip-title}
+Un proxy funciona como un intermediario que filtra toda la informacion entre el usuario y un servidor web de destino, por lo que el servidor [Proxy](2022-10-23-proxy.md){:.heading.flip-title} es el que recibira las peticiones HTTP y es el encargado de establecer la conexion con el servidor web, de esta forma el servidor recibira la peticion del proxy.
 
+Si el servidor proxy se encuentra en EEUU, el servidor web recibira la peticion desde esa localizacion y no desde el lugar que nos encontremos.
 
 ![image](https://wh04m1r00t.github.io/assets/img/proxy/Proxy.png "Proxy") Arquitectura general de Proxy
 {:.figure}
+
+## Tipos de Proxy
+
+* Proxy Anónimo, utilizado para enmascarar la dirección IP, algunos casos es encriptada.
+* Proxy de Alto Nivel de Anonimato, es presentado como un usuario comun, no como un servidor proxy.
+* Proxy Transparente, No realiza enmascaramiento de IP, unicamente es representado como un nodo de paso.
+* Proxy Inverso, el obejtivo es evitar que otros usuarios accedan a tu computador.
+
+**NOTE**: Existen muchos Servidores proxy publicos en internet, pero siempre se debe tener en cuenta que deben ser servicios confiables y con una rapida conexion.
+{:.message}
+
 
 
 <!-- ## Red TOR -->
