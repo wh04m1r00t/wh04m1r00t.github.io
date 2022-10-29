@@ -73,9 +73,9 @@ Si el servidor proxy se encuentra en EEUU, el servidor web recibira la peticion 
 {:.message}
 
 
-## Red TOR
+# Red TOR
 
-![image](https://wh04m1r00t.github.io/assets/img/Tor/Tor.png "Proxy") Arquitectura general de Proxy
+![image](https://wh04m1r00t.github.io/assets/img/Tor/Tor.png "ToR") Arquitectura general de ToR
 {:.figure}
 
 
