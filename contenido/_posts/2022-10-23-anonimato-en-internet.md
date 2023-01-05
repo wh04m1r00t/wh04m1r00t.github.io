@@ -8,7 +8,7 @@ description: >
 sitemap: false
 ---
 
-Al navegar por internet, uno de los fundamentos de seguridad es garantizar la privacidad y el anonimato 
+El anonimato en internet es la capacidad de navegar en línea sin revelar tu identidad o información personal. Hay varias formas de mantenerse anónimo en línea, como usar una conexión privada (VPN) o un navegador anónimo como Tor. También puedes utilizar un nombre de usuario o una dirección de correo electrónico que no esté vinculada a tu información personal. Es importante tener en cuenta que, aunque es posible mantenerse en gran medida anónimo en línea, es casi imposible hacerlo completamente. Algunas formas de proteger tu privacidad incluyen ser cuidadoso con la información personal que compartes en línea y configurar la privacidad en tus cuentas de redes sociales.
 {:.lead}
 
 <!-- When making changes to `_config.yml`, it is necessary to restart the Jekyll process for changes to take effect.
@@ -77,6 +77,4 @@ Si el servidor proxy se encuentra en EEUU, el servidor web recibira la peticion 
 
 ![image](https://wh04m1r00t.github.io/assets/img/Tor/Tor.png "ToR") Arquitectura general de ToR
 {:.figure}
-
-
 

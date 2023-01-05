@@ -8,10 +8,5 @@ description: >
 sitemap: false
 ---
 
-<!-- Al navegar por internet, uno de los fundamentos de seguridad es garantizar la privacidad y el anonimato 
-{:.lead}
 
-Para comenzar 
-
-## Que es una VPN -->
-
+Sitio en construcción
