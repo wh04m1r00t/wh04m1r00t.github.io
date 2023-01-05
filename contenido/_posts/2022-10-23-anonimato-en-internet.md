@@ -8,7 +8,7 @@ description: >
 sitemap: false
 ---
 
-El anonimato en internet es la capacidad de navegar en línea sin revelar tu identidad o información personal. Hay varias formas de mantenerse anónimo en línea, como usar una conexión privada (VPN) o un navegador anónimo como Tor. También puedes utilizar un nombre de usuario o una dirección de correo electrónico que no esté vinculada a tu información personal. Es importante tener en cuenta que, aunque es posible mantenerse en gran medida anónimo en línea, es casi imposible hacerlo completamente. Algunas formas de proteger tu privacidad incluyen ser cuidadoso con la información personal que compartes en línea y configurar la privacidad en tus cuentas de redes sociales.
+El anonimato en internet es la capacidad de navegar en línea sin revelar tu identidad o información personal. Es importante tener en cuenta que, aunque es posible mantenerse en gran medida anónimo en línea, es casi imposible hacerlo completamente. Algunas formas de proteger tu privacidad incluyen ser cuidadoso con la información personal que compartes en línea y configurar la privacidad en tus cuentas de redes sociales.
 {:.lead}
 
 <!-- When making changes to `_config.yml`, it is necessary to restart the Jekyll process for changes to take effect.
@@ -74,6 +74,8 @@ Si el servidor proxy se encuentra en EEUU, el servidor web recibira la peticion 
 
 
 # Red TOR
+
+Tor es una red de anonimato en línea que te permite navegar de forma anónima y privada. Funciona enrutando tu tráfico a través de varios nodos en la red, lo que hace difícil determinar tu ubicación o identidad. Cuando usas Tor, tu tráfico se encripta y se envía a través de varios nodos de la red antes de llegar a su destino final. Cada nodo desencripta solo una capa de encriptación, lo que hace que sea difícil rastrear el tráfico de vuelta a su origen.
 
 ![image](https://wh04m1r00t.github.io/assets/img/Tor/Tor.png "ToR") Arquitectura general de ToR
 {:.figure}
