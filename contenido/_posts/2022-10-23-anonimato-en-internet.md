@@ -33,7 +33,8 @@ Algunos ejemplos de estos tipos de red son:
 5. Ares: Software P2P para compartir archivos de diferentes tipos y tamaños, incluyendo música, videos, imágenes y software.
 
 
-**NOTE**:En las redes P2P puede haber malware, por lo que es importante tener precaución al descargar archivos y utilizar software de seguridad actualizado para evitar infecciones en el sistema.
+**NOTE**: En las redes P2P puede haber malware, por lo que es importante tener precaución al descargar archivos y utilizar software de seguridad actualizado para evitar infecciones en el sistema.
+{:.message}
 
 
 
