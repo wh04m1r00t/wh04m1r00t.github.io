@@ -7,9 +7,9 @@ description: >
   Entendiendo como conservar la privacidad y el anonimato en internet.
 sitemap: false
 ---
-
+<!-- 
 0. this unordered seed list will be replaced by toc as unordered list
-{:toc}
+{:toc} -->
 
 El anonimato en internet se refiere a ocultar la identidad de un usuario mientras navega por la red. Se puede lograr con herramientas como pseudónimos, VPN o navegación privada. Puede ser utilizado para proteger la privacidad o para fines negativos como ciberacoso o difusión de información dañina. El anonimato no significa impunidad, ya que el usuario sigue siendo responsable de sus acciones y puede ser sancionado si viola las leyes o términos de uso de la plataforma.
 {:.lead}
