@@ -11,7 +11,7 @@ sitemap: false
 0. this unordered seed list will be replaced by toc as unordered list
 {:toc}
 
-El anonimato en internet se refiere a la capacidad de ocultar la identidad real de un usuario al navegar por la red. Esto se puede lograr utilizando diferentes herramientas y técnicas, como el uso de pseudónimos, el uso de redes privadas virtuales (VPN) o el uso de servicios de navegación privada.
+El anonimato en internet se refiere a la capacidad de ocultar la identidad real de un usuario al navegar por la red. Esto se puede lograr utilizando diferentes herramientas y técnicas, como el uso de pseudónimos, el uso de redes privadas virtuales (VPN) o el uso de servicios de navegación privada.{:.lead}
 
 El anonimato en internet puede ser utilizado con diversos fines, algunos positivos como proteger la privacidad de los usuarios, permitir la libre expresión de opiniones y proteger a los usuarios de posibles amenazas o acosadores en línea. Sin embargo, también puede ser utilizado con fines negativos, como el ciberacoso, la difusión de información falsa o dañina, el hacking o la distribución ilegal de contenido protegido por derechos de autor.
 
