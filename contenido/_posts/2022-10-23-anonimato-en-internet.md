@@ -7,15 +7,33 @@ description: >
   Entendiendo como conservar la privacidad y el anonimato en internet.
 sitemap: false
 ---
-<!-- 
-0. this unordered seed list will be replaced by toc as unordered list
-{:toc} -->
+
 
 El anonimato en internet se refiere a ocultar la identidad de un usuario mientras navega por la red. Se puede lograr con herramientas como pseudónimos, VPN o navegación privada. Puede ser utilizado para proteger la privacidad o para fines negativos como ciberacoso o difusión de información dañina. El anonimato no significa impunidad, ya que el usuario sigue siendo responsable de sus acciones y puede ser sancionado si viola las leyes o términos de uso de la plataforma.
 {:.lead}
 
+# Peer to Peer (P2P)
+
+Son una forma de comunicación y compartición de información descentralizada entre individuos, lo que significa que no se necesita un servidor central para su funcionamiento. En lugar de ello, los nodos individuales (o pares) se conectan directamente entre sí, permitiendo que cada cliente funcione como usuario y servidor al mismo tiempo. Esto permite un intercambio de información más eficiente y descentralizado, ya que cada usuario puede contribuir a la red compartiendo sus propios archivos y recursos. Sin embargo, también es importante tener en cuenta que las redes P2P también pueden ser utilizadas para compartir contenido con derechos de autor sin permiso, lo que puede ser ilegal en algunos casos.
+
+![image](https://wh04m1r00t.github.io/assets/img/anonimato-en-internet/Ambos.png "Estructuras") 
+
+Se pueden utilizar pseudónimos para las conexiones entre nodos, lo que puede proporcionar cierto grado de anonimato en la red. Cada nodo de la red tiene una dirección, y el uso de pseudónimos permite que los usuarios se comuniquen sin revelar su verdadera identidad. De esta manera, no se tiene certeza de quién está solicitando la información en la red P2P, lo que proporciona un cierto grado de anonimato. Sin embargo, es importante tener en cuenta que el anonimato no es absoluto y que las acciones de los usuarios en la red P2P pueden ser rastreadas y sancionadas si se utilizan para fines ilegales o dañinos.
+
+Algunos ejemplos de estos tipos de red son:
+
+1. BitTorrent: Red P2P para compartir archivos grandes, como películas y música, a través de múltiples fuentes.
+
+2. eMule: Red P2P para compartir archivos de diferentes tipos y tamaños a través del protocolo eDonkey.
+
+3. Gnutella: Red P2P para compartir archivos de diferentes tipos y tamaños a través del protocolo Gnutella.
+
+4. LimeWire: Software P2P para compartir archivos de diferentes tipos y tamaños a través de la red Gnutella.
+
+5. Ares: Software P2P para compartir archivos de diferentes tipos y tamaños, incluyendo música, videos, imágenes y software.
 
 
+**NOTE**:En las redes P2P puede haber malware, por lo que es importante tener precaución al descargar archivos y utilizar software de seguridad actualizado para evitar infecciones en el sistema.
 
 
 
