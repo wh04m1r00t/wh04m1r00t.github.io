@@ -10,38 +10,38 @@
 
 # Free version
 # ---------------------------------------------------------------------------------------
-home:                  Home
-pages:                 Pages
-posts:                 Posts
-about:                 About
-related_posts:         Related Posts
-other_projects:        Other Projects
-comments:              Comments
-jump_to:               Jump to
-navigation:            Navigation
-social:                Social
-links:                 Links
+home:                  Inicio
+pages:                 Páginas
+posts:                 Publicaciones
+about:                 Acerca de
+related_posts:         Publicaciones Relacionadas
+other_projects:        Otros Proyectos
+comments:              Comentarios
+jump_to:               Ir a
+navigation:            Navegación
+social:                Redes Sociales
+links:                 Enlaces
 links_icon:            'icon-link'
-pagination:            Pagination
-newer:                 Newer
-older:                 Older
-forward:               Forward
-back:                  Back
-permalink:             Permalink
+pagination:            Paginación
+newer:                 Más Nuevos
+older:                 Más Antiguos
+forward:               Adelante
+back:                  Atrás
+permalink:             Enlace Permanente
 permalink_icon:        'content-hash'
-templates:             Templates (for web app)
-present:               present
-toc:                   Table of Contents
-note:                  Note
-description:           Description
-search:                Search
-search_placeholder:    Type something…
+templates:             Plantillas (para aplicaciones web)
+present:               presente
+toc:                   Tabla de Contenidos
+note:                  Nota
+description:           Descripción
+search:                Buscar
+search_placeholder:    Escribe algo...
 
 loading:               Loading…
 redirecting:           Redirecting…
 
 continue_reading:      >
-  Continue reading <!--post_title-->
+  Continuar leyendo <!--post_title-->
 
 cookies_banner:
   text:                >
